@@ -1,0 +1,73 @@
+.head{
+    padding-bottom: 136px;
+    background-color: pink;
+}
+.name{
+    display:flex;
+    justify-content: center;
+    margin-left: 58px;
+    margin-top: 19px;
+    width: 100%;
+    height:100%;
+}
+#cool{
+    
+}
+.my{
+    font-size: 100px;
+    font-family: cursive;
+    color: black;
+}
+.tho{
+    font-size: 40px;
+    font-family: cursive;
+    color: black;
+    margin-left: 228px;
+    margin-top: -3px;
+    color: #14a5c7; 
+}
+
+
+.outerbody{
+    height: 54vh;
+    width: 16vw;
+    border: 5px solid black;
+    background-color: aqua;
+    margin-top: 5vh;
+    margin-left: 42vw;
+}
+form{
+    margin-top: 5px;
+}
+#calc{
+
+    border: 2px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    margin: -1px;
+    height: 8vh;
+    width: 15vw;
+}
+
+.numberbox{
+    margin: 5px;
+}
+.ac{
+    width: 6vw;
+    height: 6vh
+}
+.sign{
+    width: 2vw;
+    height: 6vh;    
+}
+.num{
+    width: 4vw;
+    height: 7vh;
+    margin-top: 3px; 
+}
+.zero , .equal{
+    width: 5vw;
+    height: 6vh;
+    padding: 2px;
+}
