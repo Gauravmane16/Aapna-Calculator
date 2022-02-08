@@ -128,3 +128,37 @@ form{
           height: 40px;
       }
     }
+@media screen and (min-width:602px){
+    .outerbody{
+        height: 320px;
+        width: 200px;
+        margin-left: 150px
+    }
+    .tho{
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    #cool{
+        height: 8px;
+        width: 8px;
+    }
+    #calc{
+        height:60px;
+        width: 95%;
+        
+    }
+    
+    .ac{
+        width: 60px;
+        height: 40px;
+    }
+    .sign, .num,.equal{
+        width: 40px;
+        height: 40px;
+    }
+    .zero{
+          width: 60px;
+          height: 40px;
+      }
+    
+}
