@@ -71,3 +71,60 @@ form{
     height: 6vh;
     padding: 2px;
 }
+
+@media screen and (min-width:1094px){
+    .my{
+        font-size: 70px; 
+    }
+    .outerbody{
+        width: 17%;
+    }
+    .sign{
+        width: 30px;
+    }
+}
+@media screen and (min-width: 600px) {
+    .my {
+      font-size: 100px;
+    }
+    
+  }
+  
+  @media screen and (max-width: 600px) {
+    .my {
+      font-size: 30px;
+        margin-left:-60px
+    }
+    .tho{
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    #cool{
+        height: 8px;
+        width: 8px;
+    }
+    #calc{
+        height:60px;
+        width: 95%;
+        
+    }
+    .outerbody{
+        height: 40%;
+        width: 60%;
+        margin-top: 2vh;
+        margin-left: 90px;
+        padding-left: 10px
+    }
+    .ac{
+        width: 60px;
+        height: 40px;
+    }
+    .sign, .num,.equal{
+        width: 40px;
+        height: 40px;
+    }
+    .zero{
+          width: 60px;
+          height: 40px;
+      }
+    }
